@@ -14,6 +14,9 @@ public class App
     	
     	System.out.println("i again did it");
     	
+    	System.out.println("Mr Me DID IT RESPECT ");
+    	
+    	
         // FINALLY MADE AT 5:15 AM 
     	 //CoffeeDAO coffeeDAO = (CoffeeDAO)context.getBean(CoffeeDAO.class);
 		//ServiceLayer sl=new ServiceLayer();
